@@ -1,0 +1,8 @@
+body {
+    color: aqua;
+}
+
+.p-1 {
+    font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    color: red;
+}
